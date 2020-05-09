@@ -4,11 +4,14 @@ Ensemble des codes, données et vidéos nécessaires à la réalisation d'un rap
 ## Optimisation du temps de chute de l'hélicoptère en papier
 ### Contenu du dossier
 
-Les codes R pour la calibration d'un modèle prédictif d'hélicoptère en papier
-Les vidéos des expériences réalisées (homemade!)
-Les données extraites des vidéos (dimensions de l'hélico + hauteur de chute + temps de chute)
-
-Les codes R pour l'optimisation des dimensions de l'hélicoptère
+- Le sujet et les consignes du projet (*projet-validation.pdf*)
+- L'implémentation en R du modèle numérique d'hélicoptère (*modele.R*)
+- Le code R pour la calibration du modèle prédictif d'hélicoptère en papier (*calibration.R*)
+- Les vidéos des expériences réalisées (homemade!)
+- Les données extraites des vidéos (dimensions de l'hélico + hauteur de chute + temps de chute)(*.csv*)
+- Les codes R pour l'optimisation des dimensions de l'hélicoptère (*optimisation.R*)
+- Une exploration selon un plan OAT de l'espace des paramètres (*influence_param_model.R*)
+- Un rapport de projet explicant la démarche adoptée (*MS210-Projet_Final-Dutreuilh.pdf*)
 
 ### Licence
 
